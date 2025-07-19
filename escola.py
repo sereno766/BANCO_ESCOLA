@@ -18,7 +18,7 @@
 # 4. Execute este programa normalmente.
 #
 #   **Desenvolvido por:**  
-#       acalu sereno 20230330188
+#       acalu sereno 
 #
 # ============================================================
 
